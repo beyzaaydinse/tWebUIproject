@@ -1,2 +1,2 @@
-# testiniumWebUIproject
+# tWebUIproject
 maven/testng/selenium
